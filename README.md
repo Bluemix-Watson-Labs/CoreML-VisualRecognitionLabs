@@ -3,7 +3,7 @@
 * Sign up link for IBM Cloud: https://ibm.biz/BdYK8V
 * Drone lab for today: https://github.com/IBM/drones-iot-visual-recognition
 
-## Additional Lab
+## Take home exercise, additional lab
 CoreML & Watson Visual Recognition Lab: https://watson-developer-cloud.github.io/watson-vision-coreml-code-pattern/multiple/introduction.html
 
 ## Watson Code Patterns and recipes for demos 
