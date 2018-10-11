@@ -3,6 +3,7 @@
 * Visual Recognition demo: https://www.ibm.com/watson/services/visual-recognition/demo/#demo
 * Sign up link for IBM Cloud: https://ibm.biz/BdYK8V
 * Drone image classification lab for today: https://github.com/IBM/drones-iot-visual-recognition
+* Visual Classification tool in case you have difficulties with Watson Studio: https://watson-visual-recognition.ng.bluemix.net/
 
 ## Take home exercise, additional lab
 CoreML & Watson Visual Recognition Lab: https://watson-developer-cloud.github.io/watson-vision-coreml-code-pattern/multiple/introduction.html
